@@ -1,0 +1,62 @@
+body {
+    margin: 0px;
+}
+
+.first-div {
+    background-color: #4e8d7c;
+    height: 150px;
+    font-family: 'Abril Fatface', cursive;
+    position: relative;
+}
+
+.second-div {
+    background-color: #f3f2da;
+    height: 100%;
+}
+
+.steve-jobs-img {
+    width: 30%;
+    position: absolute;
+    left: 100px;
+    top: 80px;
+    border: black solid 1px;
+}
+
+.steve-jobs-text {
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+    font-size: 600%;
+    position: absolute;
+    margin: 0px;
+    right: 200px;
+}
+
+.about-steve-jobs {
+    font-family: 'Roboto Condensed', sans-serif;
+    position: absolute;
+    text-align: justify;
+    right: 100px;
+    left: 100px;
+    top: 475px;
+}
+
+.steve-jobs-quote {
+    font-size: 45px;
+    font-weight: bold;
+    color: #ea97ad;
+    width: 50%;
+    margin: 0px;
+    position: absolute;
+    right: 100px;
+    top: 200px;
+}
+
+.sources {
+    margin: 0px auto 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    width: fit-content;
+}
+
+.sources-para {
+    margin: 0px;
+}
